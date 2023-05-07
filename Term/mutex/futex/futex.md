@@ -14,6 +14,7 @@ I hope they can help you a lot even if you do NOT study in computer science.
 3. basic concepts of multithreading.
 4. basic concepts of multithread execution.
 5. basic concepts of atomic operation.
+6. basic concepts of wait queue in OS.
 
 ## Recall 
 
