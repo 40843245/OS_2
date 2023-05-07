@@ -101,3 +101,5 @@ Here, I also list some advanced operations.
 https://en.wikipedia.org/wiki/Futex
 
 https://www.man7.org/linux/man-pages/man7/futex.7.html
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics
