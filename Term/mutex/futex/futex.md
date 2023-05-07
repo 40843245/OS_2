@@ -48,6 +48,8 @@ Futex is a type of mutex.
 
 It consists of a kernel-space wait queue that is attached to an atomic integer in user space.
 
+A process can be slept or woken up by a system call in futex. (For more details, see the following section)
+
 ## Operation
 There are two basic operations.
 
@@ -98,3 +100,4 @@ Here, I also list some advanced operations.
 ## Ref
 https://en.wikipedia.org/wiki/Futex
 
+https://www.man7.org/linux/man-pages/man7/futex.7.html
