@@ -10,9 +10,10 @@ Although they may be abstract for you as a reader, they are important in compute
 I hope they can help you a lot even if you do NOT study in computer science.
 
 1. mutex
-2. basic concepts of multithreading.
-3. basic concepts of multithread execution.
-4. basic concepts of atomic operation.
+2. semaphore
+3. basic concepts of multithreading.
+4. basic concepts of multithread execution.
+5. basic concepts of atomic operation.
 
 ## Recall 
 
